@@ -52,4 +52,4 @@ You can Install the necessary dependencies ```pip install -r requirements.txt```
 git clone https://github.com/obinopaul/Sonic-Wave-Velocity-Prediction-using-AutoML.git                                        
 ```
 
-"#Pore_Pressure_Prediction_for_Oil_and_Gas" 
+"#Sonic-Wave-Velocity-Prediction-using-AutoML" 
